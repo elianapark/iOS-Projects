@@ -1,8 +1,7 @@
 # iOS-Projects
 
 ### AdoptMe
-![Webp net-gifmaker](https://user-images.githubusercontent.com/70451816/104355301-523abd00-54bf-11eb-9847-943d4f5f838b.gif)
-
+![ezgif com-resize](https://user-images.githubusercontent.com/70451816/104355519-a776ce80-54bf-11eb-9e9c-3331afa989c2.gif)
 
 
 ### TripPie (in progress)
