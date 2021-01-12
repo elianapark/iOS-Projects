@@ -30,7 +30,7 @@
 
 
 ### TodoList
-*First application I've ever built. *
+First application I've ever built.
 - Saves things to do list on 2 sections: Today & Upcoming
 - Able to cross out the lists by clicking a button one time and will delete the list completely by clicking the button two times
 - Used JSON to save data
@@ -47,7 +47,8 @@
 
 
 ### AppleMusicSt
--
--
--
+Apple Music Mock-Up Application
+- Utilized collection views
+- AVPlayerItem extension was used
+- Built-in Dark-mode
 ![ezgif com-optimize](https://user-images.githubusercontent.com/70451816/104348707-e6eced00-54b6-11eb-90ac-9042be6a09f2.gif)
