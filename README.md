@@ -1,9 +1,11 @@
 # iOS-Projects
 
 ### TripPie
--
--
--
+- Can manage travel schedules
+- Can explore future travel options
+- Can track on expenses during traveling
+- Includes few calculators that are necessary for trips such as currency exchange calculator
+- Can record a memo and picture to capture beautiful moments
 ![ezgif com-resize](https://user-images.githubusercontent.com/70451816/104343238-8c509280-54b0-11eb-83a9-f20f72cd07d3.gif)
 
 
