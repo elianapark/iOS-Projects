@@ -1,6 +1,10 @@
 # iOS-Projects
 
-### AdoptMe
+### AdoptMe (in progress)
+AdoptMe is created to promote pet adoptions *SwiftUI
+- Users can look at each pet's profile and when it is clicked, they will see detailed profile
+- Able to chat between users
+- Able to upload profiles including photos and detailed questionaire
 ![ezgif com-resize](https://user-images.githubusercontent.com/70451816/104355519-a776ce80-54bf-11eb-9e9c-3331afa989c2.gif)
 
 
