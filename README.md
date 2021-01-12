@@ -30,9 +30,10 @@
 
 
 ### TodoList
--
--
--
+*First application I've ever built. *
+- Saves things to do list on 2 sections: Today & Upcoming
+- Able to cross out the lists by clicking a button one time and will delete the list completely by clicking the button two times
+- Used JSON to save data
 ![Todo](https://user-images.githubusercontent.com/70451816/104348446-970e2600-54b6-11eb-8a8e-bb51dc83c5c9.png)
 
 
